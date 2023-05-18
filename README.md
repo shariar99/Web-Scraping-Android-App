@@ -23,4 +23,4 @@ To run the app locally, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone [https://github.com/your_username/your_project.git](https://github.com/shariar99/web-Scrapping)
+   git clone [https://github.com/shariar99/web-Scrapping]
