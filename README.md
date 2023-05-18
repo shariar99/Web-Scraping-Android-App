@@ -24,3 +24,16 @@ To run the app locally, follow these steps:
 1. Clone the repository:
    ```shell
    git clone [https://github.com/shariar99/web-Scrapping]
+   
+2 Open the project in Android Studio.
+
+3 Build and run the app on an emulator or a physical device.
+
+# Dependencies
+The app relies on the following library:
+
+Jsoup: https://jsoup.org/
+Make sure to include the Jsoup dependency in your project.
+
+# Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
